@@ -108,3 +108,4 @@ tup1 = ("Maths",23, "Dogs")
 #slicing in tuples
 print(tup1[0]) #prints maths
 print(tup1[0:2]) #prints 'Maths', 23
+
